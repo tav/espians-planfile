@@ -1,6 +1,6 @@
 ---
 id: multi-touch-table
-tags: #table:overview
+section: #table
 title: Multi Touch Table
 ---
 
