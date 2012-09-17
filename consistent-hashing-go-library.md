@@ -1,7 +1,7 @@
 ---
 id: consistent-hashing-go-library
 tags: NEEDSREVIEW, @tav, #go
-title: 
+title: Consistent Hashing Go Library
 ---
 
 [Consistent hashing](http://en.wikipedia.org/wiki/Consistent_hashing) provides
