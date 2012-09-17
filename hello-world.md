@@ -1,6 +1,6 @@
 ---
 id: hello-world
-tags: 
+tags: #go, NEEDSREVIEW
 title: Hello World
 ---
 
