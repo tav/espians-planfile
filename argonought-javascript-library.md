@@ -1,5 +1,5 @@
 ---
-id: 2
+id: argonought-javascript-library
 tags: #dev, #coffeescript
 title: Argonought JavaScript Library
 ---

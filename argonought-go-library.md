@@ -1,5 +1,5 @@
 ---
-id: 1
+id: argonought-go-library
 tags: #dev, #go
 title: Argonought Go Library
 ---
