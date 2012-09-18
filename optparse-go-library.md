@@ -4,4 +4,4 @@ tags: #ampify, #go, DONE
 title: Optparse library
 ---
 
-With auto-completion support!
+The default `flag` package in Go is okay for parsing command line arguments. With auto-completion support!
