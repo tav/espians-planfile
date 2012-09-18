@@ -1,11 +1,10 @@
 ---
 id: consistent-hashing-go-library
 tags: REVIEW, @tav, #go, #dev
-title: Consistent Hashing Go Library
+title: Consistent hashing library in Go
 ---
 
-[Consistent hashing](http://en.wikipedia.org/wiki/Consistent_hashing) provides
-us with useful properties for distributing and load-balancing resources...
+There are a number of techniques that we will be using to distribute and load-balance resources. The most simplest and elegant of these is [consistent hashing](http://en.wikipedia.org/wiki/Consistent_hashing).
 
 A `Ring` type should be provided within the `amp/hash` package that we could
 use as follows:
