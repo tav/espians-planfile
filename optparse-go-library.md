@@ -1,7 +1,7 @@
 ---
 id: optparse-go-library
-tags: #go, #dev, DONE
-title: Optparse Go Library
+tags: DONE, #go, #dev
+title: Optparse library in Go
 ---
 
 With auto-completion support!
