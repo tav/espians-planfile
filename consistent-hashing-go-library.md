@@ -1,7 +1,7 @@
 ---
 id: consistent-hashing-go-library
-tags: REVIEW, @tav, #go, #ampify
-title: Consistent hashing library in Go
+tags: #ampify, #go, @tav, REVIEW
+title: Consistent hashing library
 ---
 
 There are a number of techniques that we will be using to distribute and load-balance resources. The most simplest and elegant of these is [consistent hashing](http://en.wikipedia.org/wiki/Consistent_hashing).
