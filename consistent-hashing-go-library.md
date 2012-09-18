@@ -10,10 +10,10 @@ A `Ring` type should be provided within the `amp/hash` package that we could
 use as follows:
 
   ```go
-  ring := hash.NewRing("server-1", "server-5")
-  ring.Add("server-28")
-  server := ring.Find([]byte("some-key"))
-  ```
+ring := hash.NewRing("server-1", "server-5")
+ring.Add("server-28")
+server := ring.Find([]byte("some-key"))
+```
 
 Ideally, there would also be a `Ring.FindMultiple()` method which would return
 N number of distinct servers for a given key. This would allow us to store the
