@@ -1,6 +1,6 @@
 ---
 id: investigate-embedding-chromium
-tags: #c++
+tags: TODO, #c++, #table
 title: Investigate embedding Chromium
 ---
 
