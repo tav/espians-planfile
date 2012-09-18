@@ -1,6 +1,7 @@
 ---
 id: investigate-embedding-chromium
-tags: TODO, #c++, #table
+tags: #c++, #table, TODO
 title: Investigate embedding Chromium
 ---
 
+Berkelium. CEF.
