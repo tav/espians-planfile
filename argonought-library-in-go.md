@@ -1,5 +1,5 @@
 ---
-id: argonought-go-library
+id: argonought-library-in-go
 tags: INREVIEW, #go, #ampify
 title: Argonought library in Go
 ---
