@@ -1,6 +1,6 @@
 ---
 id: consistent-hashing-go-library
-tags: NEEDSREVIEW, @tav, #go, #dev
+tags: CHECK, @tav, #go, #dev
 title: Consistent Hashing Go Library
 ---
 
