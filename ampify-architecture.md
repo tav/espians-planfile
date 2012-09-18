@@ -4,3 +4,4 @@ tags: INFO
 title: Ampify Architecture
 ---
 
+DynamoDB
