@@ -1,7 +1,7 @@
 ---
 id: optparse-go-library
-tags: DONE, #go, #ampify
-title: Optparse library in Go
+tags: #ampify, #go, DONE
+title: Optparse library
 ---
 
 With auto-completion support!
