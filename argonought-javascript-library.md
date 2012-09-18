@@ -1,6 +1,6 @@
 ---
 id: argonought-javascript-library
-tags: WIP, #dev, #coffeescript
+tags: WIP, #ampify, #coffeescript
 title: Argonought library in JavaScript
 ---
 
