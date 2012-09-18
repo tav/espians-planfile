@@ -1,6 +1,6 @@
 ---
 id: argonought
-tags: INFO
+tags: INFO, #ampify
 title: Argonought
 ---
 
