@@ -1,6 +1,6 @@
 ---
 id: argonought
-tags: INFO, #ampify
+tags: #ampify, INFO, dep:argonought-javascript-library
 title: Argonought
 ---
 
