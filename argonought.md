@@ -42,31 +42,31 @@ For example, with Protocol Buffers, you'd have to first create a
 specification:
 
   ```protobuf
-  message Person {
-      required string name = 1;
-      required int32 id = 2;
-      optional string email = 3;
-  }
-  ```
+message Person {
+    required string name = 1;
+    required int32 id = 2;
+    optional string email = 3;
+}
+```
 
 Then you'd have to generate the code for your target languages before you
 can start doing anything, e.g.
 
   ```python
-  person = Person()
-  person.set_name("John Doe")
-  person.set_id(1234)
-  person.set_email("jdoe@example.com")
-  ```
+person = Person()
+person.set_name("John Doe")
+person.set_id(1234)
+person.set_email("jdoe@example.com")
+```
 
 In contrast, consider the simplicity of JSON:
 
   ```javascript
-  { "type": "Person",
-    "name": "John Doe",
-    "id": 1234,
-    "email": "jdoe@example.com" }
-  ```
+{ "type": "Person",
+  "name": "John Doe",
+  "id": 1234,
+  "email": "jdoe@example.com" }
+```
 
 It allows for dynamic development as there's no intermediate step. And
 should the developer wish to add a new field, there'd be no need to update
