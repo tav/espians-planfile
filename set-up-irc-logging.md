@@ -1,6 +1,6 @@
 ---
 id: set-up-irc-logging
-tags: DONE, @jeffarch, @tav
+tags: @jeffarch, @tav, DONE, #tools
 title: Set up IRC logging
 ---
 
