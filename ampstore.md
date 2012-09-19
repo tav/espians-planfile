@@ -1,6 +1,6 @@
 ---
 id: ampstore
-tags: INFO
+tags: INFO, #ampify
 title: Ampstore
 ---
 
