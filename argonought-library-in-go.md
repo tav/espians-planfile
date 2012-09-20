@@ -1,6 +1,6 @@
 ---
 id: argonought-library-in-go
-tags: INREVIEW, #go, #ampify
+tags: #ampify, #go, INREVIEW dep:civic-crowd
 title: Argonought library in Go
 ---
 
