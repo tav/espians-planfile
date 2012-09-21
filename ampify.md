@@ -4,4 +4,4 @@ section: #ampify
 title: Ampify
 ---
 
-Ampify is the decentralised application platform that we are building.
+Ampify is the decentralised application platform that we are developing.
