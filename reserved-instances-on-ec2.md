@@ -83,3 +83,5 @@ all the following factors:
 * Growth Rate
 * Churn
 * EC2 Instance Usage
+
+It should also factor in the possibility that we might want to move away from EC2. The Amazon-supported [EC2 Reserved Instance Marketplace](http://aws.typepad.com/aws/2012/09/amazon-ec2-reserved-instance-marketplace.html) would help with this, but there would still be a cost to us.
