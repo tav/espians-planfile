@@ -1,7 +1,7 @@
 ---
 id: reserved-instances-on-ec2
 tags: #ops, @tav, TODO
-title: Reserved instances on EC2
+title: Reserved Instances on EC2
 ---
 
 In exchange for an upfront payment, EC2 offer reserved instances with
