@@ -1,6 +1,7 @@
 ---
 id: terms-of-service
-tags: #legal
+tags: #legal, TODO
 title: Terms of Service
 ---
 
+Privacy Policy
