@@ -1,5 +1,5 @@
 ---
-id: write-an-article-on-emergent-typing
+id: emergent-typing-article
 tags: #writing, @salfield, TODO, @tav
 title: Emergent Typing Article
 ---

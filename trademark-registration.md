@@ -1,5 +1,5 @@
 ---
-id: register-trademarks
+id: trademark-registration
 tags: #org, TODO
 title: Trademark Registration
 ---

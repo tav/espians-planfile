@@ -1,5 +1,5 @@
 ---
-id: incorporate-as-a-limited-company
+id: incorporation
 tags: #org, TODO
 title: Incorporation
 ---

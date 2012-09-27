@@ -1,5 +1,5 @@
 ---
-id: write-an-article-on-the-planfile-app
+id: planfile-app-article
 tags: #writing, TODO
 title: Planfile App Article
 ---
