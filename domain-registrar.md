@@ -14,4 +14,17 @@ Very few registrars seem to actively publicise their security measures. Of the f
 
 * [MarkMonitor](https://www.markmonitor.com/) are the registrar used by Google and Facebook. They seem to take security seriously — it's even the first item mentioned in their [domain management offering](https://www.markmonitor.com/services/domain-management.php). However they are also several magnitudes more expensive than what we can currently afford.
 
-* [Moniker](https://www.moniker.com/) provide an affordable and seemingly robust [MaxLock domain protection service](https://www.moniker.com/domainnames/domainsecurity.jsp) which requires offline verification before changes can be initiated. Unfortunately, it sounds like their [service and support has been deteriorating](http://morganlinton.com/throwing-in-the-towel-with-moniker-lack-of-support-leaves-domainers-hanging/) in recent times including a number of [system-wide outages](http://domaingang.com/tag/moniker-outage/).
+* [Moniker](https://www.moniker.com/) provide an affordable and seemingly robust [MaxLock domain protection service](https://www.moniker.com/domainnames/domainsecurity.jsp) which requires offline verification before changes can be initiated. Unfortunately, it sounds like their [service and support has been deteriorating](http://morganlinton.com/throwing-in-the-towel-with-moniker-lack-of-support-leaves-domainers-hanging/) in recent times and that they've been experiencing a number of [system-wide outages](http://domaingang.com/tag/moniker-outage/).
+
+* [Name](http://www.name.com/) provide the [NameSafe two-factor authentication service](http://www.name.com/services/namesafe) to provide an additional layer of security in protecting access to their account. But it's not clear what offline verification mechanisms they provide in the case an attacker gets in.
+
+In addition to standard registrar locks, Verisign introduced a [registry lock service](http://www.verisigninc.com/en_US/products-and-services/domain-name-services/grow-your-domain-name-business/registry-lock/index.xhtml?loc=en_US) in 2009 that registrars could use to enable server-level protection for domains. But it's not immediately obvious which registrars support this and how much they charge for it.
+
+According to [this article](http://www.circleid.com/posts/domain_registry_locking_why_not_use_it/), the following [EPP status codes](http://www.wdbc.com/domain/status-codes.cfm) should be set for a domain to be considered "locked" at the registry:
+
+    Status: clientDeleteProhibited
+    Status: clientTransferProhibited
+    Status: clientUpdateProhibited
+    Status: serverDeleteProhibited
+    Status: serverTransferProhibited
+    Status: serverUpdateProhibited
