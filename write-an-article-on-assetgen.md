@@ -1,6 +1,6 @@
 ---
 id: write-an-article-on-assetgen
-tags: #writing
-title: Write an article on Assetgen
+tags: #writing, TODO
+title: Assetgen Article
 ---
 
