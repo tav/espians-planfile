@@ -1,7 +1,7 @@
 ---
 id: argonought-library-in-javascript
-tags: WIP, #ampify, #coffeescript
-title: Argonought library in JavaScript
+tags: #ampify, #coffeescript, WIP
+title: Argonought Library in JavaScript
 ---
 
 Implement an encoder/decoder using Typed Arrays.
