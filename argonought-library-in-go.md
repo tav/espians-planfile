@@ -1,7 +1,7 @@
 ---
 id: argonought-library-in-go
-tags: #ampify, #go, INREVIEW dep:civic-crowd
-title: Argonought library in Go
+tags: #ampify, #go, INREVIEW, dep:civic-crowd
+title: Argonought Library in Go
 ---
 
 An `amp/argo` package needs to be written implementing the Argonought serialisation format.
