@@ -18,7 +18,7 @@ Very few registrars seem to actively publicise their security measures. Of the f
 
 * [Name](http://www.name.com/) provide the [NameSafe two-factor authentication service](http://www.name.com/services/namesafe) to provide an additional layer of security in protecting access to their account. But it's not clear what offline verification mechanisms they provide in the case an attacker gets in.
 
-In addition to standard registrar locks, Verisign introduced a [registry lock service](http://www.verisigninc.com/en_US/products-and-services/domain-name-services/grow-your-domain-name-business/registry-lock/index.xhtml?loc=en_US) in 2009 that registrars could use to enable server-level protection for domains. But it's not immediately obvious which registrars support this and how much they charge for it.
+In addition to standard registrar locks, Verisign introduced a [registry lock service](http://www.verisigninc.com/en_US/products-and-services/domain-name-services/grow-your-domain-name-business/registry-lock/index.xhtml?loc=en_US) in 2009 that registrars could use to enable server-level protection for domains. But it's not immediately obvious which registrars support this, how much they charge for it or even how exactly it works.
 
 According to [this article](http://www.circleid.com/posts/domain_registry_locking_why_not_use_it/), the following [EPP status codes](http://www.wdbc.com/domain/status-codes.cfm) should be set for a domain to be considered "locked" at the registry:
 
