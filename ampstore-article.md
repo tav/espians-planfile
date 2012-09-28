@@ -1,9 +1,9 @@
 ---
 id: ampstore-article
-tags: TODO #writing
+tags: #writing, TODO
 title: Ampstore Article
 ---
 
 Title:
 
-> `Ampstore: Distributed, Performant, Multi-Purpose Datastore`
+> `Ampstore: A Distributed, Performant, Multi-Purpose Datastore`
