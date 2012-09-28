@@ -6,4 +6,4 @@ title: Wifistat Article
 
 Title:
 
-> Wifistat: Getting Intelligent Data from Wi-Fi Usage at Co-Working Spaces
+> Wifistat: Getting Useful Info from Wi-Fi Usage at Co-Working Spaces
