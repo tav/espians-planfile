@@ -4,6 +4,10 @@ tags: #writing, TODO
 title: Ampify Article
 ---
 
+Title:
+
+> `Ampify: A Distributed App Platform to Replace The Web`
+
 Get endorsements from:
 
 * Bram Cohen — Bittorrent
