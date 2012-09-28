@@ -4,8 +4,8 @@ tags: #ops, TODO
 title: Hosting Providers
 ---
 
-**Pricing**
+* Pricing
 
-* Lack of IPv6 support.
+* Lack of IPv6 support
 
-**Security**
+* Security
