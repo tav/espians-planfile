@@ -6,4 +6,4 @@ title: Wifistat Article
 
 Title:
 
-> Wifistat: A Tool to Improve Co-Working by Analysing Wi-Fi Usage
+> Wifistat: Getting Intelligent Data from Wi-Fi Usage at Co-Working Spaces
