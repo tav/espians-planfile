@@ -1,9 +1,9 @@
 ---
 id: civic-crowd-article
-tags: TODO #writing
+tags: #writing, TODO
 title: Civic Crowd Article
 ---
 
 Title:
 
-> Civic Crowd: A Tool to Fund/Support Local Community Projects
+> Civic Crowd: An App to Fund/Support Local Community Projects
