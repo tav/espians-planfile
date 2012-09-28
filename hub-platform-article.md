@@ -1,6 +1,6 @@
 ---
 id: hub-platform-article
-tags: 
+tags: TODO #writing
 title: Hub Platform Article
 ---
 
