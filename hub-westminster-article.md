@@ -1,6 +1,6 @@
 ---
 id: hub-westminster-article
-tags: TODO
+tags: TODO #writing
 title: Hub Westminster Article
 ---
 
