@@ -6,7 +6,7 @@ title: Ampify Article
 
 Title:
 
-> "Ampify: A Distributed App Platform to Replace The Web"
+> Ampify: A Distributed App Platform to Replace The Web
 
 Get endorsements from:
 
