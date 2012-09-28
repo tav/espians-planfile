@@ -4,6 +4,10 @@ tags: #writing, TODO
 title: Ampify Messaging Protocol Article
 ---
 
+Title:
+
+> Ampify Messaging Protocol: A Secure Structured Transport Protocol
+
 Get endorsements from:
 
 * Adam Langley
