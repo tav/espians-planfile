@@ -6,4 +6,4 @@ title: Assetgen Article
 
 Title:
 
-> Assetgen: A Tool for Generating Assets for Modern Web Development
+> Assetgen: A Tool for Asset Generation in Modern Web Development
