@@ -6,4 +6,4 @@ title: Ampstore Article
 
 Title:
 
-> "Ampstore: A High Performance Distributed Datastore Written in Go"
+> Ampstore: A High Performance Distributed Datastore Written in Go
