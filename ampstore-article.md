@@ -1,6 +1,6 @@
 ---
 id: ampstore-article
-tags: TODO
+tags: TODO #writing
 title: Ampstore Article
 ---
 
