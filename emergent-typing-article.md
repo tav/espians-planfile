@@ -4,7 +4,9 @@ tags: #writing, @salfield, @tav, TODO
 title: Naaga Article
 ---
 
-`Naaga: A Programming Language based on Emergent Typing`
+Potential Title:
+
+* `Naaga: A Programming Language based on Emergent Typing`
 
 Get endorsements from:
 
