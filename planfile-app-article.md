@@ -6,4 +6,4 @@ title: Planfile App Article
 
 Title:
 
-> Planfile App: An Open Source Web App to Manage Todo Files on GitHub
+> Planfile App: A Web App to Manage Todo/Notes on GitHub Repos
