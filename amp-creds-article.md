@@ -1,9 +1,9 @@
 ---
 id: amp-creds-article
-tags: #writing
+tags: #writing, TODO
 title: Amp Creds Article
 ---
 
 Title:
 
-> Amp Creds: Fuck BitCoin
+> Amp Creds: A Global Reference Currency Backed By Computational Units
