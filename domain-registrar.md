@@ -4,7 +4,7 @@ tags: #ops, TODO
 title: Domain Registrar
 ---
 
-Our domains have historically been registered at [BulkRegister](http://www.bulkregister.com/) and [gandi.net](http://www.gandi.net/). They have served us well over the years but, as we move forward, we need to find a more security conscious registrar that would protect us from [the](http://www.domainnamenews.com/registrars/chinas-baiducom-sues-registercom-attack/6931) [very](http://www.secretgeek.net/sg_hijack_1.asp) [real](http://css-tricks.com/this-sites-domain-is-now-safe/) [threat](http://www.darknet.org.uk/2006/09/domain-stealing-or-how-to-hijack-a-domain/) of [domain hijacking](http://en.wikipedia.org/wiki/Domain_hijacking).
+Our domains have historically been registered at [BulkRegister](http://www.bulkregister.com/) and [gandi.net](http://www.gandi.net/). These registrars have served us well over the years but, as we move forward, we need to find a more security conscious one that would protect us from [the](http://www.domainnamenews.com/registrars/chinas-baiducom-sues-registercom-attack/6931) [very](http://www.secretgeek.net/sg_hijack_1.asp) [real](http://css-tricks.com/this-sites-domain-is-now-safe/) [threat](http://www.darknet.org.uk/2006/09/domain-stealing-or-how-to-hijack-a-domain/) of [domain hijacking](http://en.wikipedia.org/wiki/Domain_hijacking).
 
 Very few registrars seem to actively publicise their security measures. Of the few that do:
 
