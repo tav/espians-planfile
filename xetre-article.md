@@ -6,4 +6,4 @@ title: Xetre Article
 
 Title:
 
-> Xetre: Kickstarting the Global Economy with an Underground Tube Network
+> Xetre: Kickstarting the Global Economy with Underground Tube Networks
