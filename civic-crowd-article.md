@@ -6,4 +6,4 @@ title: Civic Crowd Article
 
 Title:
 
-> Civic Crowd: A Tool for Funding/Supporting Local Community Projects
+> Civic Crowd: A Tool to Fund/Support Local Community Projects
