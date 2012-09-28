@@ -1,6 +1,6 @@
 ---
 id: civic-crowd-article
-tags: TODO
+tags: TODO #writing
 title: Civic Crowd Article
 ---
 
