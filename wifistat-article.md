@@ -1,9 +1,9 @@
 ---
 id: wifistat-article
-tags: #writing
+tags: #writing, TODO
 title: Wifistat Article
 ---
 
 Title:
 
-Wifistat: Getting Business Intelligence from Wi-Fi Usage at Co-Working Spaces
+> Wifistat: A Tool to Improve Co-Working by Analysing Wi-Fi Usage
