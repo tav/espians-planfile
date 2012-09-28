@@ -6,4 +6,4 @@ title: Amp Creds Article
 
 Title:
 
-> Amp Creds: A Global Reference Currency Backed By Computational Units
+> Amp Creds: A Global Reference Currency backed by Compute Units
