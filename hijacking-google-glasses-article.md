@@ -8,4 +8,8 @@ Title:
 
 > Hijacking Google Glasses to Innovate Past Walled Gardens
 
-Explain Aierus (pronounced air-roos).
+Notes:
+
+* Explain Aierus (pronounced air-roos).
+
+* Paint a picture of the opportunity to create an open platform.
