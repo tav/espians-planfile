@@ -13,3 +13,5 @@ Notes:
 * Explain Aierus (pronounced air-roos).
 
 * Paint a picture of the opportunity to create an open platform.
+
+* Reference [MIThril](http://www.media.mit.edu/wearables/mithril/) and [Steve Mann](http://en.wikipedia.org/wiki/Steve_Mann).
