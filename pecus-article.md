@@ -6,4 +6,4 @@ title: Pecus Article
 
 Title:
 
-> Pecus: An Appreciation Economy so Creators May Get Rewarded
+> Pecus: Creating An Appreciation Economy for Creators to Get Rewarded
