@@ -1,6 +1,6 @@
 ---
 id: ocsi-article
-tags: #writing
+tags: #writing, TODO
 title: OCSI Article
 ---
 
@@ -8,4 +8,6 @@ Title:
 
 > OCSI: Rethinking the Open Standards Process
 
-Compare to the IETF, W3C, &c.
+Notes:
+
+* Compare to the IETF, W3C, &c.
