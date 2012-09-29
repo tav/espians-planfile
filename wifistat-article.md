@@ -6,4 +6,4 @@ title: Wifistat Article
 
 Title:
 
-> Wifistat: Getting Useful Info from Wi-Fi Usage at Co-Working Spaces
+> Wifistat: Tool for Getting Insights from Wi-Fi Usage at Social Spaces
