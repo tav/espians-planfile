@@ -1,9 +1,9 @@
 ---
 id: pecus-article
-tags: #writing
+tags: #writing, TODO
 title: Pecus Article
 ---
 
 Title:
 
-> Pecus: An Appreciation Economy for Creators to Get Rewarded
+> Pecus: An Appreciation Economy so Creators May Get Rewarded
