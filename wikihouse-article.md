@@ -8,4 +8,6 @@ Title:
 
 > WikiHouse: Using Ruby to Disrupt the Field of Architectural Design
 
-Mention our OpenDesk work.
+Notes:
+
+* Mention our OpenDesk work.
