@@ -8,4 +8,6 @@ Title:
 
 > Xetre: Kickstarting the Economy with a Global Underground Network
 
-Make it clear that it's a concept paper only for now.
+Notes:
+
+* Make it clear that it's a concept paper only for now.
