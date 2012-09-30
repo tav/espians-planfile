@@ -1,5 +1,5 @@
 ---
-id: emergent-typing-article
+id: naaga-article
 tags: #writing, @salfield, @tav, TODO
 title: Naaga Article
 ---
