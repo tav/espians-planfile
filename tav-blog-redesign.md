@@ -1,17 +1,21 @@
 ---
 id: tav-blog-redesign
-tags: TODO #design
+tags: #design, TODO
 title: Tav Blog
 ---
 
-Many of the articles will be published on Tav's blog which needs a touch of TLC:
+Many of the articles will be published on [Tav's blog](http://tav.espians.com) which needs a touch of tender loving care. Changes include:
 
-* Design — especially for mobile devices.
+* Adding new elements to support the launch of Espra.
 
-* Updating the "About Tav" info.
+* Refreshing the design — including adding responsive layouts for mobile/touch devices.
+
+* Updating the [About Tav]((http://tav.espians.com/about-tav.html) info.
+
+* Updating the [Pecu Allocations]((http://tav.espians.com/pecu-allocations-by-tav.html).
 
 * Updating the Disqus setup.
 
 * Updating the use of Google Analytics.
 
-* Updating to a more modern jQuery and cleaning up the site JavaScript.
+* Updating to a recent jQuery and cleaning up the site JavaScript.
