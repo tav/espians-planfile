@@ -1,7 +1,7 @@
 ---
 id: secure-ops-domain
-tags: #ops
-title: Secure Ops Domain
+tags: #devops, TODO
+title: Secure DevOps Domain
 ---
 
 We are dependent on an increasing number of third party service providers who use email as the fundamental method of authentication. If an attacker manages to access any of these admin email accounts, it would be possible for them to simply reset our logins at various providers and inflict significant damage to our operations.
