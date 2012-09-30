@@ -1,6 +1,6 @@
 ---
 id: hosting-providers
-tags: #ops, TODO
+tags: #devops, TODO
 title: Hosting Providers
 ---
 
