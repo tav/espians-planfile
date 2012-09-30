@@ -1,6 +1,6 @@
 ---
-id: multi-touch-table
-section: #table
+id: #table
+section: #togethr
 title: Multi Touch Table
 ---
 
