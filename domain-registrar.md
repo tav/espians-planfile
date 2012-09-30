@@ -1,6 +1,6 @@
 ---
 id: domain-registrar
-tags: #ops, TODO
+tags: #devops, TODO
 title: Domain Registrar
 ---
 
