@@ -1,6 +1,6 @@
 ---
 id: ambient-auth-identity
-tags: #design
-title: Ambient Auth Identity
+tags: #design, TODO
+title: Ambient Auth Visual Identity
 ---
 
