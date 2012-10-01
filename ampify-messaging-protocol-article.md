@@ -14,7 +14,7 @@ Notes:
 
 * Link to [Moxie's talk](http://www.youtube.com/watch?v=xIiklPyS8MU) and [Adam's reasoning for no Convergence in Chrome](http://www.imperialviolet.org/2011/09/07/convergence.html).
 
-* Accept that SSL/TLS might possibly be the best-tested crypto protocol in this history of computing.
+* Accept that SSL/TLS might possibly be the best-tested crypto protocol in th history of computing.
 
 Get endorsements from:
 
