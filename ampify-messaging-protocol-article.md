@@ -12,6 +12,8 @@ Notes:
 
 * Compare to SSL/TLS.
 
+* Link to [Moxie's talk](http://www.youtube.com/watch?v=xIiklPyS8MU).
+
 * Compare to [Ivan's SSL Threat Model](http://blog.ivanristic.com/2009/09/ssl-threat-model.html).
 
 Get endorsements from:
