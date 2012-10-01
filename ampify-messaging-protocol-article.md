@@ -8,6 +8,10 @@ Title:
 
 > Ampify Messaging Protocol: A Secure Structured Transport Protocol
 
+Notes:
+
+* Compare to SSL/TLS.
+
 Get endorsements from:
 
 * Adam Langley
