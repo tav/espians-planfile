@@ -1,7 +1,5 @@
 ---
-id: ampify
-section: #ampify
 title: Ampify
 ---
 
-Ampify is the decentralised application platform that we are developing.
+Ampify is the open source decentralised application platform that we are developing.
