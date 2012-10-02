@@ -1,6 +1,6 @@
 ---
 id: ampify-addressbook
 tags: NOTE
-title: AmpID
+title: Amp ID
 ---
 
