@@ -1,9 +1,13 @@
 ---
 id: ampify-address-book-article
-tags: #writing
-title: Ampify Address Book Article
+tags: #writing, TODO
+title: Amp ID Article
 ---
 
 Title:
 
-> Ampify Address Book: Decentralised Identity Framework and DNS Replacement
+> Amp ID: Ampify's Secure Decentralised Identity System
+
+Notes:
+
+* Compare to the [Handle System](http://en.wikipedia.org/wiki/Handle_System).
