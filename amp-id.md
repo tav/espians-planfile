@@ -1,5 +1,5 @@
 ---
-id: ampify-addressbook
+id: amp-id
 tags: NOTE
 title: Amp ID
 ---

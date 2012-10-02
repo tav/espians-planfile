@@ -1,5 +1,5 @@
 ---
-id: ampify-address-book-article
+id: amp-id-article
 tags: #writing, TODO
 title: Amp ID Article
 ---

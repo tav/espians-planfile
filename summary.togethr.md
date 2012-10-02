@@ -1,5 +1,5 @@
 ---
-id: #togethr
+id: multi-touch-table
 section: #togethr
 title: Multi Touch Table
 ---

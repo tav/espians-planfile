@@ -1,5 +1,5 @@
 ---
-id: launch-strategy
+id: launch
 tags: #espra, INFO
 title: Launch
 ---

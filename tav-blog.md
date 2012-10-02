@@ -1,5 +1,5 @@
 ---
-id: tav-blog-redesign
+id: tav-blog
 tags: #design, TODO
 title: Tav Blog
 ---

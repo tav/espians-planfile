@@ -1,5 +1,5 @@
 ---
-id: #ampify
+id: ampify
 section: #ampify
 title: Ampify
 ---
