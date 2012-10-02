@@ -1,6 +1,6 @@
 ---
 id: domain-registrar
-tags: #devops, TODO
+tags: #ops, TODO
 title: Domain Registrar
 ---
 
@@ -30,3 +30,7 @@ According to [this article](http://www.circleid.com/posts/domain_registry_lockin
     Status: serverDeleteProhibited
     Status: serverTransferProhibited
     Status: serverUpdateProhibited
+
+We need to decide on an appropriate registrar.
+
+For the sake of completeness, we should also update the records, enable registrar locking and use new passwords on our existing ones.
