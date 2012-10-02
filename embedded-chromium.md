@@ -1,5 +1,5 @@
 ---
-id: investigate-embedding-chromium
+id: embedded-chromium
 tags: #c++, #togethr, TODO
 title: Embedded Chromium
 ---
