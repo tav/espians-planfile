@@ -1,7 +1,5 @@
 ---
-id: multi-touch-table
-section: #togethr
-title: Multi Touch Table
+title: 
 ---
 
 The Multi Touch Table initiative ...
