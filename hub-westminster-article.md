@@ -1,9 +1,9 @@
 ---
 id: hub-westminster-article
-tags: TODO #writing
+tags: #writing, TODO
 title: Hub Westminster Article
 ---
 
 Title:
 
-> Hub Westminster: 12,000 sqft. space in Central London for Startups
+> Hub Westminster: A 12,000 sqft. Space in Central London for Startups
