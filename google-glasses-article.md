@@ -6,7 +6,7 @@ title: Google Glasses Article
 
 Title:
 
-> Open Letter to Google: Please Make Glasses An Open Platform
+> Dear Google: Please Make Project Glass An Open Platform
 
 Notes:
 
