@@ -1,12 +1,12 @@
 ---
 id: cdn-article
-tags: TODO #writing
+tags: #writing, TODO
 title: CDN Article
 ---
 
 Title:
 
-> Doing a High Performance CDN Setup for Your Startup
+> Doing a High Performance Multi-CDN Setup for Your Startup
 
 Notes:
 
