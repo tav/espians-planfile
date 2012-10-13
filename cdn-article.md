@@ -10,7 +10,9 @@ Title:
 
 Notes:
 
-* Multi-CDN setup.
+* Explain the advantages of a Multi-CDN setup.
+
+* Explain why low-latency links matter more than throughput for uploads.
 
 * Cover using local nodes and pre-hashing for file upload.
 
