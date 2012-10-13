@@ -1,6 +1,6 @@
 ---
 id: zencoder-library
-tags: TODO #go
-title: Zencoder Library
+tags: #go, TODO
+title: Zencoder Library in Go
 ---
 
