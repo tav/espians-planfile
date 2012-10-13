@@ -1,5 +1,5 @@
 ---
-id: hijacking-google-glasses-article
+id: google-glasses-article
 tags: #writing, TODO
 title: Google Glasses Article
 ---
