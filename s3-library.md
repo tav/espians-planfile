@@ -1,6 +1,6 @@
 ---
 id: s3-library
-tags: TODO #go
-title: S3 Library
+tags: #go, TODO
+title: S3 Go Library
 ---
 
