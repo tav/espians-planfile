@@ -1,6 +1,6 @@
 ---
 id: dynamodb-library
-tags: TODO #go
-title: DynamoDB Library
+tags: #go, TODO
+title: DynamoDB Library in Go
 ---
 
