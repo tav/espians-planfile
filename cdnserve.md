@@ -1,6 +1,6 @@
 ---
 id: cdnserve
-tags: TODO, #go
-title: CDNserve
+tags: #go, TODO
+title: CDN Serve
 ---
 
