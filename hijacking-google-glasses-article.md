@@ -1,17 +1,17 @@
 ---
 id: hijacking-google-glasses-article
 tags: #writing, TODO
-title: Hijacking Google Glasses Article
+title: Google Glasses Article
 ---
 
 Title:
 
-> Hijacking Google Glasses to Innovate Past Walled Gardens
+> Open Letter to Google: Please Make Google Glasses An Open Platform
 
 Notes:
 
 * Explain Aierus (pronounced air-roos).
 
-* Paint a picture of the opportunity to create an open platform.
+* Paint a picture of the opportunity to create an open platform that can innovate past walled gardens.
 
 * Reference [MIThril](http://www.media.mit.edu/wearables/mithril/) and [Steve Mann's work](http://en.wikipedia.org/wiki/Steve_Mann).
