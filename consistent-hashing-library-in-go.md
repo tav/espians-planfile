@@ -1,5 +1,5 @@
 ---
-id: consistent-hashing-library
+id: consistent-hashing-library-in-go
 tags: #ampify, #go, @tav, REVIEW
 title: Consistent Hashing Library in Go
 ---
