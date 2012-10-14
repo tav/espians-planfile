@@ -1,6 +1,6 @@
 ---
 id: zencoder-library-in-go
-tags: #go, TODO #proto
+tags: #go, TODO
 title: Zencoder Library in Go
 ---
 
