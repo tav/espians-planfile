@@ -12,4 +12,4 @@ Notes:
 
 * [Clutter](https://clutter-project.org/)
 
-* (Pixmap Extension](http://www.opengl.org/wiki/Programming_OpenGL_in_Linux:_Using_texture_from_pixmap_extension)
+* (Pixmap Extension]http://www.opengl.org/wiki/Programming_OpenGL_in_Linux:_Using_texture_from_pixmap_extension)
