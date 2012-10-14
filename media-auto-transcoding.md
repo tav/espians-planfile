@@ -11,9 +11,9 @@ The audio formats we need to support are:
 * AAC/MP3
 * Vorbis
 
-Whilst it's only supported on Firefox at the moment, it looks likely that [Opus](http://www.opus-codec.org/) might win out as a universally supported audio codec. We should also start supporting Opus as soon as Zencoder support it as an output format.
-
 And the video formats we need to support are:
 
 * H.264
 * WebM
+
+Whilst it's only supported on Firefox at the moment, it looks likely that [Opus](http://www.opus-codec.org/) might win out as a universally supported audio codec. We should also start supporting Opus as soon as Zencoder support it as an output format.
