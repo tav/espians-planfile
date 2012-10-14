@@ -34,3 +34,15 @@ According to [this article](http://www.circleid.com/posts/domain_registry_lockin
 We need to decide on an appropriate registrar.
 
 For the sake of completeness, we should also update the records, enable registrar locking and use new passwords on our existing ones.
+
+* ambientauth.com
+* ampify.net
+* ampify.org
+* ampregistry.com
+* bloqi.com
+* espians.com
+* espians.net
+* espra.com
+* gitreview.com
+* peerfund.com
+* xetre.com
