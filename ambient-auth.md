@@ -1,6 +1,9 @@
 ---
 id: ambient-auth
-tags: INFO #ampify
+tags: #ampify, INFO
 title: Ambient Auth
 ---
 
+Notes:
+
+* Geo-fencing.
