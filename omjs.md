@@ -1,6 +1,6 @@
 ---
 id: omjs
-tags: TODO #coffeescript #go
-title: Omjs
+tags: #coffeescript, #go, TODO
+title: OMjs
 ---
 
