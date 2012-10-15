@@ -7,6 +7,7 @@ title: Github Cleanup
 Go through every repository:
 
 * Update the `README` files.
-* Ensure `AUTHORS` and `UNLICENSE` files are up-to-date.
 * Disable the wiki.
+* Update the description and website link.
+* Ensure `AUTHORS` and `UNLICENSE` files are up-to-date.
 * Remove any legacy cruft.
