@@ -1,6 +1,7 @@
 ---
 id: code-editor
-tags: TODO #coffeescript
+tags: #coffeescript, TODO
 title: Code Editor
 ---
 
+Should also work on touch devices — especially iPads.
