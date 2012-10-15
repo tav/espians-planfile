@@ -1,6 +1,6 @@
 ---
 id: image-conversion-library-in-go
-tags: TODO #go
+tags: #go, TODO
 title: Image Conversion Library in Go
 ---
 
@@ -12,3 +12,5 @@ Formats:
 * PNG
 * TIFF
 * WebP
+
+The library should also support thumbnailing/decorating the image with custom parameters.
