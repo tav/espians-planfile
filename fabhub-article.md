@@ -1,13 +1,11 @@
 ---
 id: fabhub-article
-tags: #writing
-title: FabHub Article
+tags: #writing, TODO
+title: Personal Manufacturing Article
 ---
 
 Title:
 
-> FabHub: Tools to Support the Personal Manufacturing Movement
-
-Decide between "Personal Manufacturing" and "Digital Fabrication".
+> Creating Tools to Support the Personal Manufacturing Movement
 
 Invite people to the Manyfacturing event.
