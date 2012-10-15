@@ -1,6 +1,6 @@
 ---
 id: autocompletion-ui
-tags: TODO #coffeescript
+tags: #coffeescript, TODO #go
 title: Autocompletion UI
 ---
 
