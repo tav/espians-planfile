@@ -1,6 +1,6 @@
 ---
 id: vat-registration
-tags: #org, TODO
+tags: #ops, TODO
 title: VAT Registration
 ---
 
