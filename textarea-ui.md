@@ -1,5 +1,5 @@
 ---
-id: autogrowing-textarea-ui
+id: textarea-ui
 tags: #coffeescript, TODO #go
 title: Textarea UI
 ---
