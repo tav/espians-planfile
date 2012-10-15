@@ -1,6 +1,6 @@
 ---
 id: bolt-automation-framework
-tags: WIP #tools
+tags: #tools, WIP #go
 title: Bolt Automation Framework
 ---
 
