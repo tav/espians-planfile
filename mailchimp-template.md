@@ -1,6 +1,6 @@
 ---
 id: mailchimp-template
-tags: TODO #comms
-title: Mailchimp Template
+tags: #comms, TODO
+title: Mailchimp Templates
 ---
 
