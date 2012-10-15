@@ -1,6 +1,6 @@
 ---
 id: pie-menu-ui
-tags: TODO #coffeescript
+tags: #coffeescript, TODO #go
 title: Pie Menu UI
 ---
 
