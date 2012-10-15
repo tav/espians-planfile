@@ -1,6 +1,7 @@
 ---
 id: proto-espra-java-app
-tags: TODO #java
+tags: #java, TODO
 title: Proto Espra Java App
 ---
 
+Including cajoleit.
