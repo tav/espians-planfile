@@ -1,6 +1,6 @@
 ---
 id: git-review
-tags: WIP, #tools
+tags: #tools, WIP #python
 title: Git Review
 ---
 
