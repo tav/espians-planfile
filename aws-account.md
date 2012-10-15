@@ -1,6 +1,6 @@
 ---
 id: aws-account
-tags: TODO #proto
+tags: TODO #ops
 title: AWS Account
 ---
 
