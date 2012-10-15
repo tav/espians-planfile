@@ -1,6 +1,6 @@
 ---
 id: mandrill-account
-tags: TODO
+tags: TODO #ops
 title: Mandrill Account
 ---
 
