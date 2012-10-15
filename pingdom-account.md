@@ -1,6 +1,6 @@
 ---
 id: pingdom-account
-tags: #devops, WIP
+tags: #ops, WIP
 title: Pingdom Account
 ---
 
