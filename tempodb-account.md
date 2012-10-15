@@ -1,6 +1,6 @@
 ---
 id: tempodb-account
-tags: TODO
+tags: TODO #ops
 title: TempoDB Account
 ---
 
