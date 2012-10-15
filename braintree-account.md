@@ -1,6 +1,6 @@
 ---
 id: braintree-account
-tags: TODO #proto
+tags: TODO
 title: Braintree Account
 ---
 
