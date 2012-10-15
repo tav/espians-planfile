@@ -1,5 +1,5 @@
 ---
-id: fabhub-article
+id: personal-manufacturing-article
 tags: #writing, TODO
 title: Personal Manufacturing Article
 ---
