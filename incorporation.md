@@ -1,6 +1,6 @@
 ---
 id: incorporation
-tags: #org, TODO
+tags: #ops, TODO
 title: Incorporation
 ---
 
