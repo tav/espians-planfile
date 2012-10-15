@@ -1,6 +1,6 @@
 ---
 id: nexmo-account
-tags: TODO
+tags: TODO #ops
 title: Nexmo Account
 ---
 
