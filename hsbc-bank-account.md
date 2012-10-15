@@ -1,6 +1,6 @@
 ---
 id: hsbc-bank-account
-tags: #org, TODO
+tags: #ops, TODO
 title: HSBC Bank Account
 ---
 
