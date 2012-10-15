@@ -1,6 +1,6 @@
 ---
 id: mailchimp-account
-tags: TODO
+tags: TODO #ops
 title: Mailchimp Account
 ---
 
