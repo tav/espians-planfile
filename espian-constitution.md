@@ -1,6 +1,6 @@
 ---
 id: espian-constitution
-tags: #org
+tags: #ops, TODO
 title: Espian Constitution
 ---
 
