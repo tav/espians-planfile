@@ -1,6 +1,6 @@
 ---
 id: gitbot
-tags: DONE, @tav, #tools
+tags: #tools, @tav, DONE #python
 title: Gitbot
 ---
 
