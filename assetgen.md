@@ -1,6 +1,6 @@
 ---
 id: assetgen
-tags: #tools WIP
+tags: #tools, WIP #python
 title: Assetgen
 ---
 
