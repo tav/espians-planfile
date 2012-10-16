@@ -8,4 +8,8 @@ Title:
 
 > Creating Tools to Support the Personal Manufacturing Movement
 
-Invite people to the Manyfacturing event.
+Notes:
+
+* Invite people to the Manyfacturing event.
+
+* Talk about model diffing.
