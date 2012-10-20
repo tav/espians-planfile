@@ -1,6 +1,6 @@
 ---
 id: http-library
-tags: TODO #rust
+tags: #rust, TODO
 title: HTTP Library
 ---
 
