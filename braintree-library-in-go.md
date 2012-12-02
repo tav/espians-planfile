@@ -1,6 +1,6 @@
 ---
 id: braintree-library-in-go
-tags: TODO
+tags: TODO #go
 title: Braintree Library in Go
 ---
 
