@@ -1,6 +1,6 @@
 ---
 id: secure-devops-domain
-tags: #devops, TODO
+tags: #ops, TODO
 title: Secure DevOps Domain
 ---
 
