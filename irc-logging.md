@@ -1,6 +1,6 @@
 ---
 id: irc-logging
-tags: #devops, @jeffarch, @tav, DONE
+tags: #ops, @jeffarch, @tav, DONE
 title: IRC Logging
 ---
 
