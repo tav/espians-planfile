@@ -1,6 +1,6 @@
 ---
 id: cdn-providers
-tags: #devops, TODO
+tags: #ops, TODO
 title: CDN Providers
 ---
 
