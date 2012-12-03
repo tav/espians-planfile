@@ -1,6 +1,6 @@
 ---
 id: pingdom-monitoring
-tags: TODO #devops
+tags: #ops, TODO
 title: Pingdom Monitoring
 ---
 
