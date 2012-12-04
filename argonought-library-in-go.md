@@ -1,6 +1,6 @@
 ---
 id: argonought-library-in-go
-tags: #rust, TODO
+tags: #go, TODO
 title: Argonought Library in Go
 ---
 
