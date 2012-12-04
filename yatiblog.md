@@ -1,6 +1,6 @@
 ---
 id: yatiblog
-tags: #python, TODO
+tags: #python, TODO @tav #tools
 title: Yatiblog
 ---
 
