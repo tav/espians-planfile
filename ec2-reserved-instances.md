@@ -48,7 +48,7 @@ Term]((http://aws.amazon.com/ec2/pricing/#heavyUtilizationRI) — has become the
 cheapest and costs us just 56% of the on demand pricing:
 
 ```pycon
->> display_costs(9)
+>>> display_costs(9)
 On-Demand	 20367.00	  2263.00
 Light/1yr	 12279.89	  1364.43
 Light/3yr	 11439.50	  1271.06
