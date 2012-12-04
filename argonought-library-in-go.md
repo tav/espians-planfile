@@ -1,5 +1,5 @@
 ---
-id: argonought-library
+id: argonought-library-in-go
 tags: #rust, TODO
 title: Argonought Library in Go
 ---
