@@ -1,7 +1,7 @@
 ---
 id: argonought-library
-tags: TODO, #rust
-title: Argonought Library
+tags: #rust, TODO
+title: Argonought Library in Go
 ---
 
 An `argo` package needs to be written implementing the Argonought serialisation format.
