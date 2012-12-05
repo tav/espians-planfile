@@ -19,4 +19,4 @@ func New384() hash.Hash
 func New512() hash.Hash
 ```
 
-There's a small chance that NIST may do otherwise or even change parameters like the number of rounds used, so we should pay close attention when the final spec is [published](http://csrc.nist.gov/publications/PubsFIPS.html) as an update to [FIPS 180-4](http://csrc.nist.gov/publications/fips/fips180-4/fips-180-4.pdf), the Secure Hash Standard (SHS).
+There's a small chance that NIST may do otherwise or even change some parameters like the number of rounds used, so we should pay close attention to the final spec which would [probably be published](http://csrc.nist.gov/publications/PubsFIPS.html) as an update to [FIPS 180-4](http://csrc.nist.gov/publications/fips/fips180-4/fips-180-4.pdf), the Secure Hash Standard (SHS).
