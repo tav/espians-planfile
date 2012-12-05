@@ -6,7 +6,7 @@ title: Ampify Article
 
 Title:
 
-> Why Ampify: A Decentralised App Platform to Replace The Web
+> Ampify: A Decentralised App Platform to Replace The Web
 
 Get endorsements from:
 
