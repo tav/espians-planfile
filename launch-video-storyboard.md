@@ -1,6 +1,6 @@
 ---
 id: launch-video-storyboard
-tags: #espra
+tags: 
 title: Launch Video Storyboard
 ---
 

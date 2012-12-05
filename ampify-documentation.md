@@ -1,6 +1,6 @@
 ---
 id: ampify-documentation
-tags: #ampify, #writing, TODO
+tags: #writing, TODO
 title: Ampify Documentation
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: ampify-architecture
-tags: INFO, #ampify
+tags: INFO
 title: Ampify Architecture
 ---
 

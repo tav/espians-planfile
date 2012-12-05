@@ -1,6 +1,6 @@
 ---
 id: bloqi
-tags: INFO #ampify
+tags: INFO
 title: Bloqi
 ---
 

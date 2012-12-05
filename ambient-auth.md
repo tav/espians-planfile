@@ -1,6 +1,6 @@
 ---
 id: ambient-auth
-tags: #ampify, INFO
+tags: INFO
 title: Ambient Auth
 ---
 

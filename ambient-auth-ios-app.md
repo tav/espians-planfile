@@ -1,6 +1,6 @@
 ---
 id: ambient-auth-ios-app
-tags: #ampify, #objc, TODO
+tags: #objc, TODO
 title: Ambient Auth iOS App
 ---
 

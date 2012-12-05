@@ -1,6 +1,6 @@
 ---
 id: linux-graphics-stack
-tags: #togethr, INFO
+tags: INFO
 title: Linux Graphics Stack
 ---
 

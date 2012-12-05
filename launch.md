@@ -1,6 +1,6 @@
 ---
 id: launch
-tags: #espra, INFO
+tags: INFO
 title: Launch
 ---
 

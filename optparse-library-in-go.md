@@ -1,6 +1,6 @@
 ---
 id: optparse-library-in-go
-tags: #ampify, #go, DONE
+tags: #go, DONE
 title: Optparse Library in Go
 ---
 

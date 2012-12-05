@@ -1,6 +1,6 @@
 ---
 id: ambient-auth-android-app
-tags: #ampify, #java, TODO
+tags: #java, TODO
 title: Ambient Auth Android App
 ---
 

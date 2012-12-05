@@ -1,6 +1,6 @@
 ---
 id: window-manger-togethr-browser
-tags: #togethr, TODO
+tags: TODO
 title: Window Manger - Togethr Browser
 ---
 

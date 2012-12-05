@@ -1,6 +1,6 @@
 ---
 id: consistent-hashing-library-in-go
-tags: #ampify, #go, @tav, REVIEW
+tags: #go, @tav, REVIEW
 title: Consistent Hashing Library in Go
 ---
 

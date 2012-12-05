@@ -1,6 +1,6 @@
 ---
 id: amp-creds
-tags: INFO #ampify
+tags: INFO
 title: Amp Creds
 ---
 

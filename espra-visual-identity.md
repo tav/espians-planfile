@@ -1,6 +1,6 @@
 ---
 id: espra-visual-identity
-tags: #design, #espra, TODO
+tags: #design, TODO
 title: Espra Visual Identity
 ---
 
