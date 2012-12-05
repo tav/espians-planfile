@@ -1,6 +1,6 @@
 ---
 id: html5-media-player
-tags: TODO #coffeescript #proto
+tags: #coffeescript, TODO
 title: HTML5 Media Player
 ---
 
