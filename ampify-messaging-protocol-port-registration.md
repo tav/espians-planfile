@@ -1,6 +1,6 @@
 ---
 id: ampify-messaging-protocol-port-registration
-tags: DONE, @tav
+tags: @tav, DONE #ops
 title: Ampify Messaging Protocol Port Registration
 ---
 
