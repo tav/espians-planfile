@@ -1,6 +1,6 @@
 ---
 id: trademark-registration
-tags: #ops, TODO
+tags: #ops, TODO #legal
 title: Trademark Registration
 ---
 
