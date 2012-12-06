@@ -1,6 +1,6 @@
 ---
 id: optparse-library
 tags: #rust, TODO
-title: Optparse Library
+title: Optparse Library in Rust
 ---
 
