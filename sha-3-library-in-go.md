@@ -10,11 +10,6 @@ Now that NIST have officially selected [<span style="font-variant: small-caps">K
 func New(size int) hash.Hash
 ```
 
-The following implementations could prove helpful even though they are not performant:
-
-* http://www.mjos.fi/dist/readable_keccak.tgz
-* https://bitbucket.org/ede/sha3
-
 For the final SHA-3 spec, NIST will most likely eliminate this generality and define outputs matching the existing SHA-2 lengths. So we should have matching constructors, i.e.
 
 ```go
@@ -25,3 +20,8 @@ func New512() hash.Hash
 ```
 
 There's a small chance that NIST may do otherwise or even change some parameters like the number of rounds used, so we should pay close attention to the final spec which would [probably be published](http://csrc.nist.gov/publications/PubsFIPS.html) as an update to [FIPS 180-4](http://csrc.nist.gov/publications/fips/fips180-4/fips-180-4.pdf), the Secure Hash Standard (SHS).
+
+Though not performant, the following implementations could prove helpful:
+
+* http://www.mjos.fi/dist/readable_keccak.tgz
+* https://bitbucket.org/ede/sha3
