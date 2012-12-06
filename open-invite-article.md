@@ -1,9 +1,9 @@
 ---
 id: open-invite-article
-tags: TODO #writing
+tags: #writing, TODO
 title: Open Invite Article
 ---
 
 Title:
 
-> Does Anyone Fancy Hacking on a Decentralised App Platform?
+> Anyone Fancy Hacking on a Decentralised App Platform With Me?
