@@ -6,4 +6,4 @@ title: Open Invite Article
 
 Title:
 
-> Anyone Fancy Hacking on a Decentralised App Platform With Me?
+> Ask HN: Fancy Hacking on a Decentralised App Platform With Me?
