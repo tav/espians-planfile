@@ -1,5 +1,5 @@
 ---
-id: pecus-article
+id: appreciation-economy-article
 tags: #writing, TODO
 title: Appreciation Economy Article
 ---
