@@ -1,6 +1,6 @@
 ---
 id: amp-registry-default-instance
-tags: TODO #ops
+tags: #devops, TODO
 title: Amp Registry Default Instance
 ---
 
