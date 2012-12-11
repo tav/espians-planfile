@@ -1,6 +1,6 @@
 ---
 id: espian-planfile-deployment
-tags: WIP
+tags: WIP #devops
 title: Espian Planfile Deployment
 ---
 
