@@ -71,7 +71,7 @@ title: Timeline
 </tr>
 <tr>
 <th class="month">June</th>
-<td class="minor" rowspan="3">New apps, bug fixes, mobile interfaces, optimisations, API cleanup, toolchain/UX improvements.</td>
+<td class="minor" rowspan="4">New apps, bug fixes, mobile interfaces, optimisations, API cleanup, toolchain/UX improvements.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -84,7 +84,6 @@ title: Timeline
 </tr>
 <tr>
 <th class="month">August</th>
-<td></td>
 <td></td>
 <td></td>
 </tr>
