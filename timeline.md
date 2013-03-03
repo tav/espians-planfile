@@ -6,11 +6,13 @@ title: Timeline
 
 <style>
 #tl {
+  font-family: Abel;
 }
 #tl th {
-  font-family: Abel;
+  font-size: 18px;
   padding-bottom: 5px;
   width: 100px;
+  max-width: 100px;
 }
 #tl th.month {
   height: 60px;
@@ -18,8 +20,13 @@ title: Timeline
   text-align: right;
 }
 #tl td {
-  background: #efefef;
-  vertical-align: top;
+  font-size: 16px;
+  padding: 10px;
+  text-align: center;
+}
+#tl td.focus {
+  background: #CBE86B;
+  vertical-align: middle;
 }
 </style>
 <table id="tl">
@@ -32,7 +39,7 @@ title: Timeline
 </tr>
 <tr>
 <th class="month">March</th>
-<td></td>
+<td class="focus" rowspan="3">Development of the core platform and base apps/services.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -42,11 +49,9 @@ title: Timeline
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <th class="month">May</th>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77,6 +82,6 @@ title: Timeline
 <td></td>
 <td></td>
 <td></td>
-<td>Launch!</td>
+<td class="focus">Launch!</td>
 </tr>
 </table>
