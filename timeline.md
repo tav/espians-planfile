@@ -9,16 +9,21 @@ title: Timeline
   font-family: Abel;
 }
 #tl th {
+  background: #000;
+  color: #fff;
   font-size: 18px;
   padding-bottom: 5px;
   width: 100px;
   max-width: 100px;
 }
+#tl th.blank {
+  background: #fff;
+}
 #tl th.month {
   height: 60px;
+  padding-bottom: 0px;
   padding-right: 5px;
   text-align: right;
-  vertical-align: top;
 }
 #tl td {
   font-size: 16px;
@@ -32,7 +37,7 @@ title: Timeline
 </style>
 <table id="tl">
 <tr>
-<th></th>
+<th class="blank"></th>
 <th>Code</th>
 <th>Community</th>
 <th>Constitution</th>
