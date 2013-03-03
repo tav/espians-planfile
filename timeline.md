@@ -71,11 +71,12 @@ title: Timeline
 <tr>
 <th class="month">June</th>
 <td class="minor" rowspan="4">New apps, bug fixes, mobile interfaces, optimisations, API cleanup, toolchain/UX improvements.</td>
-<td class="minor" rowspan="3">Seed community.<br>Start reaching out to prospective Board of Mentors.</td>
+<td class="focus">Build seed community.</td>
 <td class="minor" rowspan="3">Get the core campaign materials (articles and videos) ready.</td>
 </tr>
 <tr>
 <th class="month">July</th>
+<td class="minor" rowspan="2">Reach out to prospective Board of Mentors.</td>
 <td class="focus" rowspan="2">Get the core legal framework set up.</td>
 </tr>
 <tr>
@@ -83,7 +84,7 @@ title: Timeline
 </tr>
 <tr>
 <th class="month">September</th>
-<td class="focus" rowspan="2">Build core community.</td>
+<td class="minor">Build wider community.</td>
 <td></td>
 <td class="focus">Launch!</td>
 </tr>
