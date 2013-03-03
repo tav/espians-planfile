@@ -28,7 +28,7 @@ title: Timeline
   text-align: center;
 }
 #tl td {
-  background: #fff;
+  background: #efefef;
   color: #fff;
   font-size: 16px;
   padding: 10px;
