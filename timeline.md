@@ -27,7 +27,7 @@ title: Timeline
 }
 #tl td.focus {
   background: #CBE86B;
-  vertical-align: middle;
+  vertical-align: top;
 }
 </style>
 <table id="tl">
