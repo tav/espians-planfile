@@ -18,6 +18,7 @@ title: Timeline
   height: 60px;
   padding-right: 5px;
   text-align: right;
+  vertical-align: top;
 }
 #tl td {
   font-size: 16px;
