@@ -21,18 +21,19 @@ title: Timeline
 }
 #tl th.month {
   height: 60px;
+  padding-left: 8px;
   padding-bottom: 0px;
-  padding-right: 5px;
+  padding-right: 8px;
   text-align: right;
 }
 #tl td {
   font-size: 16px;
   padding: 10px;
   text-align: center;
+  vertical-align: middle;
 }
 #tl td.focus {
   background: #CBE86B;
-  vertical-align: top;
 }
 </style>
 <table id="tl">
