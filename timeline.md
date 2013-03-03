@@ -9,9 +9,10 @@ title: Timeline
   font-family: Abel;
 }
 #tl th {
-  background: #000;
-  color: #fff;
+  background: #E8CAA4;
+  color: #000;
   font-size: 18px;
+  height: 40px;
   padding-bottom: 5px;
   width: 100px;
   max-width: 100px;
@@ -24,16 +25,20 @@ title: Timeline
   padding-left: 8px;
   padding-bottom: 0px;
   padding-right: 8px;
-  text-align: right;
+  text-align: center;
 }
 #tl td {
+  color: #fff;
   font-size: 16px;
   padding: 10px;
   text-align: center;
   vertical-align: middle;
 }
 #tl td.focus {
-  background: #CBE86B;
+  background: #CC2A41;
+}
+#tl td.minor {
+  background: #424254;
 }
 </style>
 <table id="tl">
@@ -65,7 +70,7 @@ title: Timeline
 </tr>
 <tr>
 <th class="month">June</th>
-<td></td>
+<td class="minor" rowspan="3"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75,11 +80,9 @@ title: Timeline
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <th class="month">August</th>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
