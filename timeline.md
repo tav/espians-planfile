@@ -76,15 +76,15 @@ title: Timeline
 </tr>
 <tr>
 <th class="month">July</th>
-<td class="focus">Get the core legal framework set up.</td>
+<td class="focus" rowspan="2">Get the core legal framework set up.</td>
 </tr>
 <tr>
 <th class="month">August</th>
-<td rowspan="2"></td>
 </tr>
 <tr>
 <th class="month">September</th>
-<td class="focus" rowspan="2">Build core community!</td>
+<td class="focus" rowspan="2">Build core community.</td>
+<td></td>
 <td class="focus">Launch!</td>
 </tr>
 </table>
