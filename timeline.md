@@ -28,6 +28,7 @@ title: Timeline
   text-align: center;
 }
 #tl td {
+  background: #fff;
   color: #fff;
   font-size: 16px;
   padding: 10px;
@@ -60,38 +61,30 @@ title: Timeline
 <tr>
 <th class="month">April</th>
 <td></td>
-<td></td>
-<td></td>
+<td class="minor" rowspan="3">Start to find legal/financial advisors and engaging with regulatory bodies like the FSA.</td>
+<td class="minor" rowspan="2">Start writing articles.</td>
 </tr>
 <tr>
 <th class="month">May</th>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <th class="month">June</th>
 <td class="minor" rowspan="4">New apps, bug fixes, mobile interfaces, optimisations, API cleanup, toolchain/UX improvements.</td>
-<td></td>
-<td></td>
-<td></td>
+<td class="minor" rowspan="3">Seed community.<br>Start reaching out to prospective Board of Mentors.</td>
+<td class="minor" rowspan="3">Get the core campaign materials (articles and videos) ready.</td>
 </tr>
 <tr>
 <th class="month">July</th>
-<td></td>
-<td></td>
-<td></td>
+<td class="focus">Get the core legal framework set up.</td>
 </tr>
 <tr>
 <th class="month">August</th>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <th class="month">September</th>
-<td></td>
-<td></td>
-<td></td>
+<td class="focus" rowspan="2">Build core community!</td>
 <td class="focus">Launch!</td>
 </tr>
 </table>
