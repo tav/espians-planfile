@@ -70,7 +70,7 @@ title: Timeline
 </tr>
 <tr>
 <th class="month">June</th>
-<td class="minor" rowspan="3"></td>
+<td class="minor" rowspan="3">Iterative development: new apps, bug fixes, mobile interfaces, optimisations, API cleanup, toolchain and UX improvements.</td>
 <td></td>
 <td></td>
 <td></td>
