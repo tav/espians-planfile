@@ -1,6 +1,6 @@
 ---
 id: proto-espra-user-model
-tags: TODO #go #coffeescript
+tags: #coffeescript, #golang, TODO
 title: Proto Espra User Model
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: ocsi-app
-tags: #go, #tools, TODO #coffeescript
+tags: #coffeescript, #golang, #tools, TODO
 title: OCSI App
 ---
 

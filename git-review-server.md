@@ -1,6 +1,6 @@
 ---
 id: git-review-server
-tags: #go, #tools, WIP #coffeescript
+tags: #coffeescript, #golang, #tools, WIP
 title: Git Review Server
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: proto-espra-services
-tags: TODO #go #coffeescript
+tags: #coffeescript, #golang, TODO
 title: Proto Espra Services
 ---
 

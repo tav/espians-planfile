@@ -1,6 +1,6 @@
 ---
 id: proto-espra-item-model
-tags: TODO #go #coffeescript
+tags: #coffeescript, #golang, TODO
 title: Proto Espra Item Model
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: proto-espra-go-app
-tags: TODO #go
+tags: #golang, TODO
 title: Proto Espra Go App
 ---
 

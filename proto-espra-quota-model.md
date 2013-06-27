@@ -1,6 +1,6 @@
 ---
 id: proto-espra-quota-model
-tags: TODO #go
+tags: #golang, TODO
 title: Proto Espra Quota Model
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: golly-article
-tags: TODO, #go, #writing
+tags: #golang, #writing, TODO
 title: Golly Article
 ---
 

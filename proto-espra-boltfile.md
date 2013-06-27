@@ -1,6 +1,6 @@
 ---
 id: proto-espra-boltfile
-tags: TODO #go
+tags: #golang, TODO
 title: Proto Espra Boltfile
 ---
 

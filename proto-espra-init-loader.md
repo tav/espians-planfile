@@ -1,6 +1,6 @@
 ---
 id: proto-espra-init-loader
-tags: TODO #coffeescript #go
+tags: #coffeescript, #golang, TODO
 title: Proto Espra Init Loader
 ---
 
