@@ -1,6 +1,6 @@
 ---
 id: naaga-article
-tags: #writing, @salfield, @tav, TODO
+tags: #writing, +salfield, +tav, TODO
 title: Naaga Article
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: pypy-jit-sandbox-support
-tags: @fijal, REVIEW #python
+tags: #python, +fijal, REVIEW
 title: PyPy JIT Sandbox Support
 ---
 

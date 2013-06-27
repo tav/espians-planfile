@@ -1,6 +1,6 @@
 ---
 id: ec2-reserved-instances
-tags: #ops, @tav, TODO
+tags: #ops, +tav, TODO
 title: EC2 Reserved Instances
 ---
 

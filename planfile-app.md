@@ -1,6 +1,6 @@
 ---
 id: planfile-app
-tags: #tools, @micrypt, WIP #go #coffeescript
+tags: #coffeescript, #go, #tools, +micrypt, WIP
 title: Planfile App
 ---
 
