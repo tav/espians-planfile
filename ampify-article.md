@@ -1,6 +1,6 @@
 ---
 id: ampify-article
-tags: #writing, TODO *backlog
+tags: #writing, !backlog, TODO
 title: Ampify Article
 ---
 
