@@ -1,6 +1,6 @@
 ---
 id: amp-creds-article
-tags: #writing, TODO INREVIEW
+tags: #writing, TODO
 title: Amp Creds Article
 ---
 
