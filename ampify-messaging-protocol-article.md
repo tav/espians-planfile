@@ -1,5 +1,5 @@
 ---
-id: ampify-messaging-protocol-article
+id: 5
 tags: #writing, TODO
 title: Ampify Messaging Protocol Article
 ---

@@ -1,5 +1,5 @@
 ---
-id: amp-creds
+id: 2
 tags: INFO
 title: Amp Creds
 ---

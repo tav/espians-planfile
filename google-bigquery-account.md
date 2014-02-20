@@ -1,6 +1,6 @@
 ---
-id: google-bigquery-account
-tags: TODO #ops
+id: 40
+tags: #ops, TODO
 title: Google BigQuery Account
 ---
 

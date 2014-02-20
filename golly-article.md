@@ -1,5 +1,5 @@
 ---
-id: golly-article
+id: 38
 tags: #golang, #writing, TODO
 title: Golly Article
 ---

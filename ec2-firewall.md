@@ -1,5 +1,5 @@
 ---
-id: ec2-firewall
+id: 24
 tags: TODO
 title: EC2 Firewall
 ---

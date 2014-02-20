@@ -1,5 +1,5 @@
 ---
-id: appreciation-economy-article
+id: 7
 tags: #writing, TODO
 title: Appreciation Economy Article
 ---

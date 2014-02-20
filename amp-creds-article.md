@@ -1,5 +1,5 @@
 ---
-id: amp-creds-article
+id: 1
 tags: #writing, TODO
 title: Amp Creds Article
 ---

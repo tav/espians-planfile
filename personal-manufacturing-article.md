@@ -1,5 +1,5 @@
 ---
-id: personal-manufacturing-article
+id: 67
 tags: #writing, TODO
 title: Personal Manufacturing Article
 ---

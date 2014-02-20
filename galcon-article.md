@@ -1,5 +1,5 @@
 ---
-id: galcon-article
+id: 32
 tags: #writing
 title: Galcon Article
 ---

@@ -1,5 +1,5 @@
 ---
-id: ampify-article
+id: 4
 tags: #writing, TODO
 title: Ampify Article
 ---

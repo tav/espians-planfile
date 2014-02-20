@@ -1,5 +1,5 @@
 ---
-id: amp-id-article
+id: 3
 tags: #writing, TODO
 title: Amp ID Article
 ---

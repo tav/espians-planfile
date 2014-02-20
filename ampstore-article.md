@@ -1,5 +1,5 @@
 ---
-id: ampstore-article
+id: 6
 tags: #writing, TODO
 title: Ampstore Article
 ---
